@@ -1,0 +1,33 @@
+# Unity gegenereerde mappen
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider gegenereerde bestanden
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS bestanden
+.DS_Store
+Thumbs.db
+
+# Asset meta-data mag GEEN ignore krijgen, .meta bestanden altijd meecommitten
+!*.meta
